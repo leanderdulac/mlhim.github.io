@@ -1,1 +1,9 @@
 _site/
+
+#backup files
+*~
+*.bak
+
+#lock files
+*.lck
+.~lock*
