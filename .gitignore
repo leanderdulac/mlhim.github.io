@@ -1,9 +1,3 @@
-_site/
-
-#backup files
+*.sw?
 *~
-*.bak
-
-#lock files
-*.lck
-.~lock*
+_site/*
