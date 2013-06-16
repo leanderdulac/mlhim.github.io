@@ -1,5 +1,5 @@
 ---
-layout: page-with-content
+layout: post
 title: Semantics Matters
 ---
 
@@ -48,10 +48,24 @@ well as having a few of the most important videos embedded in the site
 for your convenience.
 
 We hope that you will stop in and visit.  Remember that MLHIM is an
-open source project with the goal of improving semantic
+  open source project with the goal of improving semantic
 interoperability between all types of healthcare (and other domain)
-applications.  From purpose specific mobile applications to national
-information networks.  MLHIM is your 21st foundation for semantic
-interoperability.
+  applications.  From purpose specific mobile applications to national
+  information networks.  MLHIM is your 21st foundation for semantic
+  interoperability.
 
 ## Unlock Your Semantics! ##
+
+<div id="disqus_thread"></div>
+  <script type="text/javascript">
+  var disqus_shortname = 'semantic-matters'; // required: replace example with your forum shortname
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function() {
+   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+   dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+   })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
