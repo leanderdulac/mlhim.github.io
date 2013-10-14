@@ -3,8 +3,8 @@ layout: page-with-content
 title: Getting Started
 ---
 
-
-<h3 id="overview">Overview</h3>
+<h3 id="overview">Overview
+</h3>
 
 While the broad goals of the MLHIM project is to foster long-term,
 semantic and syntactic interoperability across all healthcare related
@@ -14,20 +14,30 @@ technologies.
 If you are thinking more on a scale of a company, a locality, a state,
 etc.
 You can begin building applications that are **inter-operable** AND
-require **less maintenance overhead**
-as  the science of healthcare changes.
+require **less maintenance overhead** as  the science of healthcare changes.
 The three "big change" complexities in healthcare IT addressed by
 MLHIM are: temporal, spatial and ontological.
 
-Be sure to join the discussion forum and/or watch the introductory
-videos for more details.
+Be sure to join the discussion forum and/or watch the [introductory videos ] (http://www.youtube.com/watch?v=lbDJyng9cm0&feature=plcp&list=PL5BDmBjSV7CtzNPwLnlfL5iCIatBDLBKA) for more details.
 
 Whatever your interest in healthcare IT. You will find helpful
 information in one of the sections below.
 
+<table class="table table-bordered">
+    <tr>
+        <td>Decision Makers</td>
+        <td>EducatorsStudents</td>
+    </tr>
+     <tr>
+        <td>Knowledge Modellers</td>
+        <td>Application Developers </td>
+    </tr>
+</table>
+
 ------------------------------
 
-<h3 id="decision-makers"> Decision Makers </h3>
+<h3 id="decision-makers">Decision Makers
+</h3>
 
 You are in a position where you need to make technical decisions on
 creating or updating a healthcare IT infrastructure.
@@ -58,18 +68,15 @@ developers choices.
 
 If you would like to discuss your specific needs for healthcare IT
 interoperability, feel free to contact one of the persons/companies
-listed in More Help.
-
-
+listed in [More Help](http://www.mlhim.org/home/start/more-help).
 
 To follow the latest news about MLHIM please:
-
-* [Like us on Facebook] (https://www.facebook.com/mlhim2)
-* [Circle us on Google Plus] (https://plus.google.com/114878592048516503027)
+[Like us on Facebook] (https://www.facebook.com/mlhim2) and
+[Circle us on Google Plus] (https://plus.google.com/114878592048516503027)
 
 -------------------------------
 
-<h3 id="educators-students"> Educators and Students
+<h3 id="educators-students">Educators and Students
 </h3>
 
 The MLHIM group has experienced members in the areas of computer
@@ -88,35 +95,35 @@ Cavalini at lutricav at mlhim dot org.
 She will be happy to provide some first steps advice (or recommend
 someone that can)  as well as ongoing collaboration.
 
+To follow the latest news about MLHIM please:
+[Like us on Facebook] (https://www.facebook.com/mlhim2) and
+[Circle us on Google Plus] (https://plus.google.com/114878592048516503027)
+
 -------------------------------
 
-<h3 id="knowledge-modellers"> Knowledge Modellers </h3>
+<h3 id="knowledge-modellers"> Knowledge Modellers
+</h3>
 
 If you are an experienced healthcare knowledge modeller you will want
-to see the video on using the CDD Template. It uses the XMind mind
-mapping tool with a template representation of the MLHIM reference
-model.  You can save the template as a new file, create a model by
+to see the video on using the CDD Template. It uses the [XMind mind mapping tool] (http://www.xmind.net) with a template representation of the MLHIM reference model.  You can save the template as a new file, create a model by
 copying and pasting components from the RM and adding semantic links
 to ontologies and vocabularies.
 
-You can get the latest version of the CDD Template here.  You may also
-want to explore using the simple CCD spreadsheet tool, xls2ccd   It
-was designed around migrating legacy data model systems to MLHIM CCDs.
- Based on the US National Cancer Institute's Common Data Element CRF
-Standard Template.  The xls2ccd.zip  package contains the tool and the
-spreadsheet template, with examples and instructions.
+You can get the latest version of the CDD Template [here](http://www.hkcr.net/tools/xmind-templates).  You may also want to explore using the simple CCD spreadsheet tool, xls2ccd   It was designed around migrating legacy data model systems to MLHIM CCDs. Based on the US National Cancer Institute's Common Data Element CRF Standard Template.  The [xls2ccd.zip  package](http://www.hkcr.net/tools/xls2ccd) contains the tool and the spreadsheet template, with examples and instructions.
 
-
-You will want to create an account over at the repository.  The
+You will want to create an account over at the [repository](http://www.hkcr.net).  The
 instructions are on the first page.  Also, please stop by the forum
 and let us know you are taking MLHIM for a test drive.
 
-
+To follow the latest news about MLHIM please:
+[Like us on Facebook] (https://www.facebook.com/mlhim2) and
+[Circle us on Google Plus] (https://plus.google.com/114878592048516503027)
 
 -------------------------------
 
 
-<h3 id="app-devs"> Application Developers </h3>
+<h3 id="app-devs"> Application Developers
+</h3>
 
 Developers will be pleased to find that you can use your favourite XML
 tools for editing, language binding and persistence mapping.  You can
@@ -136,10 +143,13 @@ are in a state of neglect at the moment.  Feel free to volunteer to
 upgrade the information there while learning about MLHIM.
 
 The items you'll need to get started are the latest stable development
-release of the Reference Model schema and documentation.  You will
+release of the [Reference Model schema and documentation](https://docs.google.com/folder/d/0B9KiX8eH4fiKQVZoRll1UGs1bUE/edit?pli=1).  You will
 need some CCDs for familiarisation.  You can choose a few from the
-repository or you might use the xls2ccd tool to create your own.  You
+[repository](http://www.hkcr.net) or you might use the [xls2ccd](http://www.hkcr.net/tools/xls2ccd/view) tool to create your own.  You
 should bring any questions you have to the forum.  Or just stop in and
 introduce yourself to let us know you are taking MLHIM for a test
 drive.
 
+To follow the latest news about MLHIM please:
+[Like us on Facebook] (https://www.facebook.com/mlhim2) and
+[Circle us on Google Plus] (https://plus.google.com/114878592048516503027)
