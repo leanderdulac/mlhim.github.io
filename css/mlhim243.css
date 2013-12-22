@@ -1,0 +1,231 @@
+body {
+    font: 8pt "Trebuchet MS", Arial, sans-serif;
+    background-color: #fff;
+    text-align: left;
+}
+
+
+a img {
+    border: none;
+    padding: 2px;
+}
+
+
+/* tooltips for link hover */
+a.tooltip, a.tooltip:link, a.tooltip:visited, a.tooltip:active  {
+  position: relative;
+  text-decoration: none;
+  font-style: italic;
+}
+
+a.tooltip:hover {
+  background: transparent;
+}
+
+a.tooltip span {
+  display: none;
+  text-decoration: none;
+}
+
+a.tooltip:hover span {
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 250px;
+  z-index: 10;
+  color: #000000;
+  border:1px solid #000000;
+  background: #FFFFCC;
+  font: 12px Verdana, sans-serif;
+  text-align: left;
+}
+
+.dataname {
+   background: #FFFF99;  
+   font-weight: bold;
+   font-size: 12;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;    
+  }
+
+.pcttype {
+   background: #FFFFDD;  
+   font-size: 10px;
+   text-align: center;
+   padding:2px 5px 2px 5px;
+  }
+
+.ccdtitle {
+   display: block;
+   background: #FFFFFF;  
+   font-weight: bold;
+   font-size: 16px;
+   text-align: center;   
+   padding:2px 5px 2px 5px;
+  }
+
+.ccdid {
+   display: block;
+   background: #FFFFFF;  
+   font-size: 8px; 
+   text-align: center;
+   padding:2px 5px 2px 5px;   
+  }
+
+.entry {
+   background-color: #cecece;
+   padding:2px 5px 2px 5px;
+}  
+
+.entry-data {
+   background-color: #bff62e;
+   width: 95%;
+   border:2px solid;
+   border-radius:25px;
+   border-style: ridge;
+   border-color: #000000;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+  
+  
+.cluster {
+   background-color: #c894ff;
+   width: 95%;
+   border:2px solid;
+   border-radius:25px;
+   border-style: groove;
+   border-color: #000000;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;   
+}  
+
+.dvstring {
+   background-color: #c8ffff;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;   
+}  
+
+.dvuri {
+   background-color: #bab202;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
+.dvboolean {
+   background-color: #bab202;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
+.dvencapsulated {
+   background-color: #929292;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
+.dvordered {
+   background-color: #6573be;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
+.dvquantified {
+   background-color: #be1494;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
+.partyself {
+   background-color: #f611be;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
+.partyidentified {
+   background-color: #f6ccbe;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;   
+}  
+
+
+.refrange {
+   background-color: #ff1b5f;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
+.attestation {
+   background-color: #f6ebbe;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;   
+}  
+
+.participation {
+   background-color: #f6eb11;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;   
+}  
+
+.audit {
+   background-color: #398ee7;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;   
+}  
+
+.fad {
+   background-color: #39afff;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
+
+
+
