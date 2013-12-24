@@ -9,10 +9,8 @@ The new MLHIM.org website
 
 This site is built with [jekyll] (http://jekyllrb.com/docs/usage/).
 
-Befor update it please read [jekyll usage docs] (http://jekyllrb.com/docs/usage/).
+Before update it please read [jekyll usage docs] (http://jekyllrb.com/docs/usage/).
 
-It could be updated from github inline edit
-or
-u can install jekyll, clone project and start local server from project root directory
+It could be updated from github inline edit or you can install jekyll, clone project and start local server from project root directory
 
   jekyll serve -w --trace

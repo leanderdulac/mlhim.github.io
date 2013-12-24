@@ -26,7 +26,7 @@ information in one of the sections below.
 <table class="table table-bordered">
     <tr>
         <td>Decision Makers</td>
-        <td>EducatorsStudents</td>
+        <td>Educators  Students</td>
     </tr>
      <tr>
         <td>Knowledge Modellers</td>
