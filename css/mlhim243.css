@@ -4,6 +4,24 @@ body {
     text-align: left;
 }
 
+h1 {
+    font: 16pt "Trebuchet MS", Arial, sans-serif;
+    font-weight: bold;
+    background-color: #fff;
+    text-align: center;
+}
+h2 {
+    font: 12pt "Trebuchet MS", Arial, sans-serif;
+    font-weight: bold;
+    background-color: #fff;
+    text-align: center;
+}
+
+h3 {
+    font: 12pt "Trebuchet MS", Arial, sans-serif;
+    background-color: #ffcccc;
+    text-align: left;
+}
 
 a img {
     border: none;
@@ -75,6 +93,19 @@ a.tooltip:hover span {
    text-align: center;
    padding:2px 5px 2px 5px;   
   }
+
+.ccd_md {
+   background-color: #f69b31;
+   width: 95%;
+   border:2px solid;
+   border-radius:25px;
+   border-style: groove;
+   border-color: #000000;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;   
+}  
 
 .entry {
    background-color: #cecece;
