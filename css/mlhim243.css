@@ -94,6 +94,18 @@ a.tooltip:hover span {
    text-align: center;
    padding:2px 5px 2px 5px;   
   }
+.ccd {
+   background-color: #c7f6c2;
+   width: 99%;
+   border:2px solid;
+   border-radius:25px;
+   border-style: groove;
+   border-color: #000000;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;   
+}  
 
 .ccd_md {
    background-color: #d2f677;
