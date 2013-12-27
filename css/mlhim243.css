@@ -96,7 +96,7 @@ a.tooltip:hover span {
   }
 .ccd {
    background-color: #c7f6c2;
-   width: 99%;
+   width: 100%;
    border:2px solid;
    border-radius:25px;
    border-style: groove;
@@ -123,6 +123,11 @@ a.tooltip:hover span {
 .entry {
    background-color: #cecece;
    padding:2px 5px 2px 5px;
+   border:1px solid;
+   border-radius:25px;
+   border-style: groove;
+   border-color: #000000;
+   
 }  
 
 .entry-data {
