@@ -54,7 +54,7 @@ ideas.
 This is because educational, cultural and geo-political situations
 affect their perceptions.
 So, any type of top down clinical model definition is going to
-experience push-back and slow or no adoption. This is defined by the [Cavalini-Cook Theory](img/cavalini_cook_theory.png)
+experience push-back and slow or no adoption. This is defined by the [Cavalini-Cook Theory](img/cavalini_cook_theory.png).
 In addition, these all encompassing approaches increase the complexity
 of implementation.
 This reduces the pool of talent available to even work on development
