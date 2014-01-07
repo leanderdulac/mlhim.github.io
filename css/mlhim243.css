@@ -248,7 +248,7 @@ a img {
 }  
 
 .devonly {
-   display: none;
+   display: inline;
 }
 
 
