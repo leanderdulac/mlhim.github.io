@@ -64,6 +64,7 @@ a img {
    text-align: center;
    padding:2px 5px 2px 5px;   
   }
+  
 .ccd {
    background-color: #c7f6c2;
    width: 100%;
@@ -78,7 +79,7 @@ a img {
 }  
 
 .ccd_md {
-   background-color: #d2f677;
+   background-color: #cbd88d;
    width: 95%;
    border:2px solid;
    border-radius:25px;
@@ -101,7 +102,7 @@ a img {
 }  
 
 .entry-data {
-   background-color: #bff62e;
+   background-color: #d8cc8d;
    width: 95%;
    border:2px solid;
    border-radius:25px;
@@ -115,7 +116,7 @@ a img {
   
   
 .cluster {
-   background-color: #c894ff;
+   background-color: #d88dac;
    width: 95%;
    border:2px solid;
    border-radius:25px;
@@ -228,7 +229,7 @@ a img {
 }  
 
 .audit {
-   background-color: #398ee7;
+   background-color: #8d8fd8;
    width: 95%;
    position: relative;
    margin-left: auto;
