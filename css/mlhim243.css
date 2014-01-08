@@ -248,6 +248,7 @@ a img {
 }  
 
 .devonly {
+   text-align: center;
    display: inline;
    
 }
