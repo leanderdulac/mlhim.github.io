@@ -42,7 +42,7 @@ a img {
  }
 
 .pcttype {
-   background: #d1d0d8;  
+   background: #ffffff;  
    font-size: 12px;
    font-weight: bolder;
    text-align: center;
@@ -197,7 +197,7 @@ a img {
 
 .partyself {
    text-align: left;
-   background-color: #e1a8bf;
+   background-color: #e0b8bf;
    width: 95%;
    position: relative;
    margin-left: auto;
