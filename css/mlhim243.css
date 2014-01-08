@@ -37,9 +37,7 @@ a img {
    font-size: 12;
    width: 95%;
    position: relative;
-   margin-left: auto;
-   margin-right: auto;
-   padding:5px 5px 5px 5px;    
+   margin-top: 3px;    
   }
 
 .pcttype {
@@ -47,7 +45,7 @@ a img {
    font-size: 12px;
    font-weight: bolder;
    text-align: center;
-   padding:5px 5px 5px 5px;
+   margin-top: 3px;    
   }
 
 .ccdtitle {
