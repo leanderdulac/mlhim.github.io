@@ -31,6 +31,7 @@ a img {
 
 
 .dataname {
+   text-align: left;
    background: #FFFF99;  
    font-weight: bold;
    font-size: 12;
@@ -67,6 +68,7 @@ a img {
   }
   
 .ccd {
+   text-align: left;
    background-color: #c7f6c2;
    width: 100%;
    border:2px solid;
@@ -80,6 +82,7 @@ a img {
 }  
 
 .ccd_md {
+   text-align: left;
    background-color: #cbd88d;
    width: 95%;
    border:2px solid;
@@ -93,6 +96,7 @@ a img {
 }  
 
 .entry {
+   text-align: left;
    background-color: #cecece;
    padding:2px 5px 2px 5px;
    border:1px solid;
@@ -103,6 +107,7 @@ a img {
 }  
 
 .entry-data {
+   text-align: left;
    background-color: #d8cc8d;
    width: 95%;
    border:2px solid;
@@ -117,6 +122,7 @@ a img {
   
   
 .cluster {
+   text-align: left;
    background-color: #d88dac;
    width: 95%;
    border:2px solid;
@@ -130,6 +136,7 @@ a img {
 }  
 
 .dvstring {
+   text-align: left;
    background-color: #aec5ea;
    width: 95%;
    position: relative;
@@ -139,6 +146,7 @@ a img {
 }  
 
 .dvuri {
+   text-align: left;
    background-color: #d8cdb1;
    width: 95%;
    position: relative;
@@ -148,6 +156,7 @@ a img {
 }  
 
 .dvboolean {
+   text-align: left;
    background-color: #bab202;
    width: 95%;
    position: relative;
@@ -157,6 +166,7 @@ a img {
 }  
 
 .dvencapsulated {
+   text-align: left;
    background-color: #a3cfa0;
    width: 95%;
    position: relative;
@@ -166,6 +176,7 @@ a img {
 }  
 
 .dvordered {
+   text-align: left;
    background-color: #bdebcd;
    width: 95%;
    position: relative;
@@ -175,6 +186,7 @@ a img {
 }  
 
 .dvquantified {
+   text-align: left;
    background-color: #98dd92;
    width: 95%;
    position: relative;
@@ -184,6 +196,7 @@ a img {
 }  
 
 .partyself {
+   text-align: left;
    background-color: #e1a8bf;
    width: 95%;
    position: relative;
@@ -193,6 +206,7 @@ a img {
 }  
 
 .partyidentified {
+   text-align: left;
    background-color: #f6ccbe;
    width: 95%;
    position: relative;
@@ -203,6 +217,7 @@ a img {
 
 
 .refrange {
+   text-align: left;
    background-color: #dec6e1;
    width: 95%;
    position: relative;
@@ -212,6 +227,7 @@ a img {
 }  
 
 .attestation {
+   text-align: left;
    background-color: #f6ebbe;
    width: 95%;
    position: relative;
@@ -221,6 +237,7 @@ a img {
 }  
 
 .participation {
+   text-align: left;
    background-color: #deec9c;
    width: 95%;
    position: relative;
@@ -230,6 +247,7 @@ a img {
 }  
 
 .audit {
+   text-align: left;
    background-color: #8d8fd8;
    width: 95%;
    position: relative;
@@ -239,6 +257,7 @@ a img {
 }  
 
 .fad {
+   text-align: left;
    background-color: #a8aae1;
    width: 95%;
    position: relative;
