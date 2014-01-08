@@ -39,7 +39,7 @@ a img {
    position: relative;
    margin-left: auto;
    margin-right: auto;
-   padding:2px 5px 2px 5px;    
+   padding:5px 5px 5px 5px;    
   }
 
 .pcttype {
@@ -47,7 +47,7 @@ a img {
    font-size: 12px;
    font-weight: bolder;
    text-align: center;
-   padding:2px 5px 2px 5px;
+   padding:5px 5px 5px 5px;
   }
 
 .ccdtitle {
