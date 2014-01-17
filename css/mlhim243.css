@@ -377,9 +377,9 @@ a img {
 
         input,select,textarea {
             display: block;
-            width: 100%;
+            width: 95%;
             height: 34px;
-            padding: 6px 12px;
+            padding: 5px 8px;
             font-size: 10px;
             line-height: 1.428571429;
             color: #555;
