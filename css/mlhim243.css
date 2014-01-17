@@ -226,6 +226,16 @@ a img {
    padding:2px 5px 2px 5px;
 }  
 
+.dvinterval {
+   text-align: left;
+   background-color: #c88acc;
+   width: 95%;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding:2px 5px 2px 5px;
+}  
+
 .attestation {
    text-align: left;
    background-color: #f6ebbe;
