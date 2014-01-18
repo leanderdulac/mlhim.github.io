@@ -1,3 +1,8 @@
+/*
+Styles used by the CCD-Gen 2 generated forms for reference model version 2.4.3 based CCDs. 
+
+*/
+
 body {
     font: 8pt "Trebuchet MS", Arial, sans-serif;
     background-color: #fff;
@@ -187,7 +192,7 @@ a img {
 
 .dvquantified {
    text-align: left;
-   background-color: #98dd92;
+   background-color: #a1e5d0;
    width: 95%;
    position: relative;
    margin-left: auto;
