@@ -4,6 +4,7 @@ Styles used by the CCD-Gen 2 generated forms for reference model version 2.4.3 b
 */
 
 body {
+    font-family: Ubuntu:300italic,300,400italic,400,500italic,500,700italic,700;
     font: 8pt Ubuntu, Arial, sans-serif;
     background-color: #fff;
     text-align: left;
