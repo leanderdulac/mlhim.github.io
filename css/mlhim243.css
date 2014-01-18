@@ -10,20 +10,20 @@ body {
 }
 
 h1 {
-    font: 16pt "Trebuchet MS", Arial, sans-serif;
+    font: 16pt Ubuntu, Arial, sans-serif;
     font-weight: bold;
     background: transparent;
     text-align: left;
 }
 h2 {
-    font: 12pt "Trebuchet MS", Arial, sans-serif;
+    font: 12pt Ubuntu, Arial, sans-serif;
     font-weight: bold;
     background: transparent;
     text-align: left;
 }
 
 h3 {
-    font: 8pt "Trebuchet MS", Arial, sans-serif;
+    font: 8pt Ubuntu, Arial, sans-serif;
     font-weight: bold;
     background: transparent;
     text-align: left;
