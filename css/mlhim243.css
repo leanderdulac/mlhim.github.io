@@ -37,14 +37,17 @@ a img {
 
 
 .dataname {
-   text-align: left;
    background: #FFFF99;  
-   font-weight: bold;
-   font-size: 12;
-   width: 95%;
-   position: relative;
-   margin-top: 5px;    
-   margin-bottom: 5px;    
+   font-size: 12px;
+   font-weight: normal;
+   text-align: center;
+   margin: 5px 5px 15px 5px;    
+   padding: 5px 5px 5px 5px; 
+   border:1px solid;
+   border-radius: 15px;
+   border-style: solid;
+   border-color: #aeaeae;
+
  }
 
 .pcttype {
