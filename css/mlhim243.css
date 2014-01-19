@@ -433,9 +433,9 @@ a img {
             display: none;
         }
 
-        /*used by me only for color definitions */
         .ccd_md {
             background-color: #cbd88d;
+            margin: 5px 5px 5px 5px;
         }
 
         .entry {
