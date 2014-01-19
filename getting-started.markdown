@@ -143,9 +143,9 @@ are in a state of neglect at the moment.  Feel free to volunteer to
 upgrade the information there while learning about MLHIM.
 
 The items you'll need to get started are the latest stable development
-release of the [Reference Model schema and documentation](https://docs.google.com/folder/d/0B9KiX8eH4fiKQVZoRll1UGs1bUE/edit?pli=1).  You will
+release of the [Reference Model schema and documentation](https://launchpad.net/mlhim-specs/2.0/2.4.3/+download/mlhim-specs-2013-10-15-2.4.3-Release.zip).  You will
 need some CCDs for familiarisation.  You can choose a few from the
-[repository](http://www.hkcr.net) or you might use the [xls2ccd](http://www.hkcr.net/tools/xls2ccd/view) tool to create your own.  You
+[CCD Library](http://www.ccdgegn.com) or you might use the [xls2ccd](http://www.hkcr.net/tools/xls2ccd/view) tool to create your own.  You
 should bring any questions you have to the forum.  Or just stop in and
 introduce yourself to let us know you are taking MLHIM for a test
 drive.
