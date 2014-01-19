@@ -22,27 +22,23 @@ Other current academic projects are not listed, pending authorisation from resea
         <td><a href="https://launchpad.net/mlhim">MLHIM</a></td>
     </tr>
     
-    <tr>
-        <td>HKCR</td>
-        <td>Healthcare Knowledge Component Repository Project on Launchpad</td>
-        <td><a href="https://launchpad.net/hkcr">HKCR on LP</a></td>
-    </tr>
-    
-	 <tr>
-        <td>HKCR Website</td>
-        <td>The live HKCR site.</td>
-        <td><a href="http://www.hkcr.net">HKCR dot Net</a></td>
-    </tr>
-
      <tr>
         <td>MLHIM Specifications</td>
         <td>The base XML Schema and documentation</td>
         <td><a href="https://launchpad.net/mlhim-specs">MLHIM Specs.</a></td>
     </tr>
 
+
+    <tr>
+        <td>CCD-Gen</td>
+        <td>Concept Constraint Definition Generator - tool for creating CCDs, example HTML forms and example XML instances. This is a functioning, online development tool.</td>
+        <td><a href="http://www.ccdgen.com">CCD-Gen 2</a></td>
+    </tr>
+
+
      <tr>
         <td>CDD</td>
-        <td>Constraint Definition Designer - tool for creating CCDs.</td>
+        <td>Constraint Definition Designer - tool for creating CCDs. This is an open source effort in need of developers.</td>
         <td><a href="https://launchpad.net/cdd">CDD on LP</a></td>
     </tr>
 
@@ -57,5 +53,12 @@ Other current academic projects are not listed, pending authorisation from resea
         <td>Pre-Hospital Information Support System</td>
         <td><a href="https://launchpad.net/phiss">PHIS on LP</a></td>
     </tr>
+
+	<tr>
+        <td>MedWeb 3.0</td>
+        <td>The Semantic Web for Healthcare</td>
+        <td><a href="http://www.medweb30.com">MedWeb</a></td>
+    </tr>
+
 
 </table>
