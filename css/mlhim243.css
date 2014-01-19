@@ -412,6 +412,9 @@ a img {
 
         .ccd {
             background-color: lightgreen;
+            margin: 5px 5px 5px 5px;
+            padding: 15px 15px 15px 15px;
+
         }
 
         .collapsed {
